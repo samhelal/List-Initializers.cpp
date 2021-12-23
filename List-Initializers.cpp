@@ -9,6 +9,6 @@ using namespace std ;
 #include "List-Initializers.h"
 
 int main(){
-    account jan (5000 , "Jan " , "Green", 1000) ;
+    account jan (5000 , " Jan " , "Green", 1000) ;
     cout << Jan.displayAccount() << endl ;
 }
